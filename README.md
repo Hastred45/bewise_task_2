@@ -27,7 +27,7 @@
 
 ### Запуск проекта
 - Скачать и установить [Docker](https://docs.docker.com/get-docker/)
-- Клонировать репозиторий ```git clone ``` 
+- Клонировать репозиторий ```git clone git@github.com:Hastred45/bewise_task_2.git``` 
 - В корне директории bewise_task_2 создать файл .env и заполнить его по примеру .env.example
 - В папке infra выполнить команду ```docker compose up -d```
 - Перейти по адресу ```http://127.0.0.1:8000/docs```  
